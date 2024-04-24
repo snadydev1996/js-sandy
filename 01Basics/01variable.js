@@ -5,13 +5,14 @@ accountCity = "jaipur"
 let accountState;
 
 
+
 // accountId = 2  // not allowed 
 
 accountEmail = "sandy.com"
 accountPassword = "1214125"
 accountCity= "bangeuluru"
 
-console.log(accountId);
+console.log(name);
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState,])
 
 /*
